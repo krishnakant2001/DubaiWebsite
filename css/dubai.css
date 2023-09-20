@@ -1,64 +1,65 @@
 body{
-  margin: 0;
-  background-color: #FAEEE0;
-  font-family: sans-serif;
-  opacity: 0.8;
-}
-.top-container{
-  background-image: url(https://wallpaperaccess.com/full/222685.jpg);
-  padding: 280px;
-  background-size: 100% 100%;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
-
-}
-h1{
-  margin-left: 500px;
-  font-size: 100px;
-}
-.section-one, .section-two, .section-three{
-  text-align: center;
-  width: 50%;
-  margin: 0 auto;
-  line-height: 2;
-  font-size: 18px;
-  padding: 10px;
-  background-color: #4A403A;
-  color: #EFEFEF;
-
-}
-.section-four{
-  text-align: center;
-  width: 50%;
-  margin: 10px auto;
-  line-height: 2;
-  font-size: 18px;
-  margin-bottom: 30px;
-}
-.middle-container{
-  background-image: url(https://wallpaperaccess.com/full/222684.jpg);
-  padding: 195px;
-  background-size: 100% 100%;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
-}
-
-.middle-two-container{
-  background-image: url(https://www.alux.com/wp-content/uploads/2013/11/Uncover-the-Most-Expensive-Fountain-in-the-World-via-stevannoronha.com_.jpg);
-  padding: 180px;
-  background-size: 100% 100%;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
-}
-
-.bottom-container{
-  background-image: url(https://www.e-architect.com/images/jpgs/dubai/palm_jumeirah_ptw051208_1.jpg);
-  padding: 180px;
-  background-size: 100% 100%;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
-}
+    margin: 0;
+    background-color: #FAEEE0;
+    font-family: sans-serif;
+    opacity: 0.8;
+  }
+  .top-container{
+    background-image: url(../img/d0.jpg);
+    padding: 280px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+  
+  }
+  h1{
+    margin-left: 500px;
+    font-size: 100px;
+  }
+  .section-one, .section-two, .section-three{
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    line-height: 2;
+    font-size: 18px;
+    padding: 10px;
+    background-color: #4A403A;
+    /* color: #EFEFEF; */
+    color: whitesmoke;
+  
+  }
+  .section-four{
+    text-align: center;
+    width: 50%;
+    margin: 10px auto;
+    line-height: 2;
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  .middle-container{
+    background-image: url(../img/d1.jpg);
+    padding: 195px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+  }
+  
+  .middle-two-container{
+    background-image: url(../img/d2.jpg);
+    padding: 180px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+  }
+  
+  .bottom-container{
+    background-image: url(../img/d3.jpg);
+    background-size: cover;
+    padding: 180px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+  }
